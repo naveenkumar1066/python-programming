@@ -1,1 +1,2 @@
-print(len(raw_input()))
+abs=raw_input()
+print(len(abs))
